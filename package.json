@@ -2,13 +2,13 @@
 	"name": "roundedcorners-web",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "https://github.com/Lightrix/AstroStarter-template#readme",
+	"homepage": "https://github.com/RoundedCorners/Website#readme",
 	"bugs": {
-		"url": "https://github.com/Lightrix/AstroStarter-template/issues"
+		"url": "https://github.com/RoundedCorners/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Lightrix/AstroStarter-template.git"
+		"url": "git+https://github.com/RoundedCorners/Website.git"
 	},
 	"license": "MIT",
 	"author": {
