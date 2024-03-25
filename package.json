@@ -2,19 +2,19 @@
 	"name": "@website/roundedcorners_app",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "https://github.com/RoundWindows/Website#readme",
+	"homepage": "HTTPS://GitHub.Com/RoundWindows/Website#readme",
 	"bugs": {
-		"url": "https://github.com/RoundWindows/Website/issues"
+		"url": "HTTPS://GitHub.Com/RoundWindows/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/RoundWindows/Website.git"
+		"url": "git+HTTPS://GitHub.Com/RoundWindows/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://NikolaHristov.Tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",
